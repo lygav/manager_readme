@@ -12,11 +12,12 @@ In terms of what I need, it’s honest feedback and a safe, inclusive work envir
 
 ## Engineering Excellence and Process
 
-"Place the right process, and the right product will follow." - James Coplien.
+> "Place the right process, and the right product will follow." - James Coplien.
+
 I feel strong about having simple, low overhead process, but process nonetheless.
-I use Scrum as a framework to design such process.
+I use Scrum as a framework to design such process.  
 That said, I'm very wary to not highjack Agile principles and promote them in an Orwellian way,  
-but to embrace thinking and finding balances instead of following how-tos (or just let people go loose).
+but to embrace thinking and finding balances instead of following how-tos (or just let people go loose).  
 At the end of the day, these are my key values:
 
  - I value ability to get stuff done.
@@ -34,9 +35,9 @@ At the end of the day, these are my key values:
 
 ## Professionalism
 
-"When you believe in things you don't understand 
-Then you suffer" - Stevie Wonder
-As professionals we should try to always support our assumptions with data.
+>"When you believe in things you don't understand Then you suffer" - Stevie Wonder
+
+As professionals we should try to always support our assumptions with data.  
 If there is no data available, try to make it yourself.
 
 ## Clear Communication
@@ -46,7 +47,8 @@ then the ability to communicate clearly.
 
 ## Domain Expertise
 
-"The most valuable asset in the software industry is the synthesis of programming skill and deep context in the business problem domain, in one skull." - Jesse Watson
+> "The most valuable asset in the software industry is the synthesis of programming skill and deep context in the business problem domain, in one skull." - Jesse Watson, Amazon
+
 I expect you to learn your domain, and become an expert in it.
 
 ## Feedback
