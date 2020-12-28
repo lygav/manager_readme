@@ -10,6 +10,11 @@ I’m here to help, support, mentor you, and to set context for what you’re wo
 I’m excited to invest and nurture that ecosystem for the long haul! 
 In terms of what I need, it’s honest feedback and a safe, inclusive work environment for each of us to be trusting and fully engaged.
 
+## Standing for each other as core value
+
+My guiding principle is to serve the people i lead in such a way that you will grow as persons, become wiser, freer, and more autonomous. 
+Standing for each other for me means prioritising the growth and well-being the people i lead and the community of ours to which we  currently all belong.
+
 ## Engineering Excellence and Process
 
 > "Place the right process, and the right product will follow." - James Coplien.
